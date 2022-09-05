@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.71c6afb1.chunk.css",
-    "main.js": "/static/js/main.a0b95d0c.chunk.js",
-    "main.js.map": "/static/js/main.a0b95d0c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d4aa004d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d4aa004d.js.map",
-    "static/css/2.2894c9e2.chunk.css": "/static/css/2.2894c9e2.chunk.css",
-    "static/js/2.65a23507.chunk.js": "/static/js/2.65a23507.chunk.js",
-    "static/js/2.65a23507.chunk.js.map": "/static/js/2.65a23507.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.2894c9e2.chunk.css.map": "/static/css/2.2894c9e2.chunk.css.map",
-    "static/css/main.71c6afb1.chunk.css.map": "/static/css/main.71c6afb1.chunk.css.map",
-    "static/js/2.65a23507.chunk.js.LICENSE.txt": "/static/js/2.65a23507.chunk.js.LICENSE.txt",
-    "static/media/boxicons.min.css": "/static/media/boxicons.cbd149c5.ttf",
-    "static/media/footer-bg.67e95f05.jpg": "/static/media/footer-bg.67e95f05.jpg",
-    "static/media/tmovie.67797e94.png": "/static/media/tmovie.67797e94.png"
+    "main.css": "/rMovies/static/css/main.fc0a3e4e.chunk.css",
+    "main.js": "/rMovies/static/js/main.a0b95d0c.chunk.js",
+    "main.js.map": "/rMovies/static/js/main.a0b95d0c.chunk.js.map",
+    "runtime-main.js": "/rMovies/static/js/runtime-main.187bc523.js",
+    "runtime-main.js.map": "/rMovies/static/js/runtime-main.187bc523.js.map",
+    "static/css/2.2894c9e2.chunk.css": "/rMovies/static/css/2.2894c9e2.chunk.css",
+    "static/js/2.65a23507.chunk.js": "/rMovies/static/js/2.65a23507.chunk.js",
+    "static/js/2.65a23507.chunk.js.map": "/rMovies/static/js/2.65a23507.chunk.js.map",
+    "index.html": "/rMovies/index.html",
+    "static/css/2.2894c9e2.chunk.css.map": "/rMovies/static/css/2.2894c9e2.chunk.css.map",
+    "static/css/main.fc0a3e4e.chunk.css.map": "/rMovies/static/css/main.fc0a3e4e.chunk.css.map",
+    "static/js/2.65a23507.chunk.js.LICENSE.txt": "/rMovies/static/js/2.65a23507.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "/rMovies/static/media/boxicons.cbd149c5.ttf",
+    "static/media/footer-bg.67e95f05.jpg": "/rMovies/static/media/footer-bg.67e95f05.jpg",
+    "static/media/tmovie.67797e94.png": "/rMovies/static/media/tmovie.67797e94.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4aa004d.js",
+    "static/js/runtime-main.187bc523.js",
     "static/css/2.2894c9e2.chunk.css",
     "static/js/2.65a23507.chunk.js",
-    "static/css/main.71c6afb1.chunk.css",
+    "static/css/main.fc0a3e4e.chunk.css",
     "static/js/main.a0b95d0c.chunk.js"
   ]
 }
